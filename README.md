@@ -1,6 +1,6 @@
 # TensorFlow Deep Learning Fundamentals
 
-**Name:** Shashank reddy D 
+**Name:** Shashank Reddy D 
 
 **ID:** 700781569
 
